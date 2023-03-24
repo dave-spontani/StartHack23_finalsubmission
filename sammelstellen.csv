@@ -1,0 +1,32 @@
+﻿Sammelstelle;Standort;abfallarten;Öffungszeiten;Geo Point
+2;Sturzeneggstrasse;Aluminium,Dosen,Glas;;47.404593934631215, 9.31268577466113
+3;Stationsstrasse;Aluminium,Dosen,Glas,Alttextilien;;47.407998513340715, 9.3340265399655
+13;Schorenplatz;Aluminium,Dosen,Glas,Alttextilien;;47.42574746900827, 9.360494657964752
+14;Blumenbergplatz;Aluminium,Dosen,Glas;;47.427090060255786, 9.37404359551568
+21;Spelteriniplatz;Aluminium,Dosen,Glas;;47.429622371063566, 9.38072555514287
+27;Heiligkreuz;Aluminium,Dosen,Glas;;47.442394191177165, 9.394735404245331
+28;Brauerstrasse;Aluminium,Dosen,Glas;;47.439175143109146, 9.406628709128304
+6;Ahornstrasse;Aluminium,Dosen,Glas,Alttextilien;;47.41279662388727, 9.349571171134267
+10;Teufener Strasse;Aluminium,Dosen,Glas,Alttextilien;;47.41636634940455, 9.366384487773104
+15;Grabenpärkli;Aluminium,Dosen,Glas;;47.42451384186186, 9.373866614875242
+18;Mühlegg;Aluminium,Dosen,Glas;;47.41953748294346, 9.379803723787115
+26;EKZ Grossacker;Aluminium,Dosen,Glas,Alttextilien;;47.43094426527675, 9.39579494743119
+32;Güterbahnhofstrasse 4;Altmetall,Altöl,Styropor;08.00-17.00;47.41847764687886, 9.36442953556214
+33;Steinachstrasse 92;Altmetall,Altöl,Styropor;;47.43218050230405, 9.387141110054522
+1;Bahnhof Winkeln;Aluminium,Dosen,Glas,Alttextilien;;47.40420036684703, 9.298682756065393
+5;Bahnhof Haggen;Altöl,Aluminium,Dosen,Glas;;47.40806061301631, 9.338888176946657
+25;Dreilindenstrasse;Aluminium,Dosen,Glas;;47.42540315471751, 9.393196330643939
+30;KVA/Sonderabfallsammelstelle Rechenwaldstrasse 32;Altmetall,Altöl,Sonderabfall;07.00-11.00 / 13.30-16.30;47.41523587527329, 9.332562423255748
+30;Entsorgung West (Schläpfer Altmetall AG);Altmetall,Altöl,Aluminium,Dosen,Glas,Sonderabfall,Alttextilien;www.schlaepfer-altmetall.ch;47.404743944889184, 9.295205286417689
+11;EKZ Neumarkt/Davidstrasse;Aluminium,Dosen,Glas;;47.42132985104942, 9.371547765370329
+16;Pic-o-Pello-Platz/Wallstrasse;Aluminium,Dosen,Glas;;47.42193724790324, 9.377049745228344
+22;Schulhaus Rotmonten;Aluminium,Dosen,Glas;;47.437094549076285, 9.376914279536365
+4;EKZ Lerchenfeld;Aluminium,Dosen,Glas;;47.41209185377458, 9.335859082306296
+7;Parkplatz Schlössli;Aluminium,Dosen,Glas;;47.40370904253385, 9.33951927836776
+8;Burgstrasse/Zeughaus;Aluminium,Dosen,Glas;;47.418672517034395, 9.3603023588407
+17;Spiltrücklistrasse;Aluminium,Dosen,Glas,Alttextilien;;47.41539523853299, 9.382682245879494
+19;Untere Büschenstrasse;Aluminium,Dosen,Glas;;47.42597111901191, 9.382042967264102
+23;Bachstrasse;Aluminium,Dosen,Glas;;47.43515864367061, 9.39171423980185
+29;EKZ Gallusmarkt;Aluminium,Dosen,Glas,Alttextilien;;47.43809453778273, 9.414367143236413
+31;Sömmerliwaldstrasse;Altmetall,Altöl,Aluminium,Dosen,Glas,Styropor;07.30-10.30 / 14.00-16.30;47.41967558736474, 9.346311331884477
+31;Entsorgung Ost (Max Müller AG);Altmetall,Altöl,Aluminium,Dosen,Glas,Sonderabfall,Alttextilien;www.mueller-transport.ch;47.44305077927591, 9.424690515638124
